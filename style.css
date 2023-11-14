@@ -4,3 +4,10 @@ body{
 h1{
     
 }
+main{
+    background-color:burlywood;
+}
+ol{
+    font-family:sans-serif;
+    font-size:large
+}
